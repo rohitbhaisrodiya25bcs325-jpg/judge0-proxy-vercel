@@ -1,0 +1,8 @@
+{
+  "name": "judge0-proxy",
+  "version": "1.0.0",
+  "main": "api/judge0-proxy.js",
+  "dependencies": {
+    "node-fetch": "^2.6.7"
+  }
+}
